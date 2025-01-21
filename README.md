@@ -1,4 +1,4 @@
-# simple-chat-bot-using-gamma2-2b
+# SIMPLE-CHAT-BOT-USING-gamma2-2b
 
 Chat Bot Using Gamma2 Model
 This project demonstrates a simple chatbot application built using the Gamma2:2B language model, powered by the langchain library and integrated with Streamlit for a user-friendly interface. The chatbot acts as an intelligent assistant, providing the best possible answers to user queries.
@@ -26,3 +26,8 @@ python-dotenv
 
 Environment Variables: Ensure the following variables are set in a .env file:
 Create a .evn file and store LANGCHAIN_PROJECTNAME , LANGCHAIN_API_KEY in that file
+
+
+Ensure you have installed gamma2:2b in your local machine
+if not install & setup ollama and run (ollama run gamma2:2b) in your command prompt
+
