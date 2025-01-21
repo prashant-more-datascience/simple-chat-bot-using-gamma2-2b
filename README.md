@@ -25,5 +25,4 @@ streamlit
 python-dotenv
 
 Environment Variables: Ensure the following variables are set in a .env file:
-LANGCHAIN_API_KEY
-LANGCHAIN_PROJECTNAME
+Create a .evn file and store LANGCHAIN_PROJECTNAME , LANGCHAIN_API_KEY in that file
