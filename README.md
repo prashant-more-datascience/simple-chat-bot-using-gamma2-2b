@@ -12,14 +12,18 @@ Project Highlights
 Customizable Assistant Behavior: The chatbot is designed to adapt based on the prompt instructions provided to it.
 Real-Time Interaction: Users can input their questions and receive answers instantly through the Streamlit UI.
 Environment Configuration: Uses dotenv for secure and flexible management of API keys and environment variables.
+
+
 Prerequisites
 Python 3.8+
+
 Required Libraries:
 langchain
 langchain_community
 langchain_core
 streamlit
 python-dotenv
+
 Environment Variables: Ensure the following variables are set in a .env file:
 LANGCHAIN_API_KEY
-LANGCHAIN_PROJECT
+LANGCHAIN_PROJECTNAME
